@@ -1,0 +1,152 @@
+.customNav {
+  background-color: #081D33;
+  height: 100%;
+}
+
+.customMenu {
+  padding: 20px !important;
+}
+
+.customMenuLink .menu-text {
+  color: #FFFFFF;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.customMenuLink .svg-icon {
+  margin-right: 5px !important;
+  padding: 5px;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+
+.customMenu-active {
+  background-color: #5C58A5 !important;
+}
+
+.customMenu-active .menu-text {
+  color: white !important;
+}
+
+.subheader {
+  margin: 10px 20px !important;
+  border-radius: 10px !important;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px !important;
+}
+
+.wrapper {
+  background-color: white;
+}
+
+.content {
+  background-color: white;
+}
+
+.bg-world {
+  padding: 32px;
+  background-size: contain;
+  background-position: right;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  @media screen and (max-width: 520px) {
+    padding: 16px;
+  }
+}
+
+.header {
+  /* border-bottom: 1px solid rgba(163, 163, 163, 0.301) !important; */
+  background-color: #F3F4F8;
+}
+
+th {
+  background-color: rgb(82, 161, 247) !important;
+  color: white !important;
+}
+
+td {
+  min-width: 120px;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 0px;
+  height: 7px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f2f2f2;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgba(82, 161, 247, 0.7);
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(82, 161, 247, 0.9);
+}
+
+.fc-h-event {
+  border: none !important;
+}
+
+.fc-daygrid-day-number {
+  color: rgb(49, 49, 49);
+}
+
+.fc-day-today {
+  background-color: #b4d2f1 !important;
+}
+
+.fc-event-title-container {
+  background-color: white;
+  color: rgb(29, 135, 245);
+  box-shadow: none;
+  padding: 3px !important;
+  border: 1px solid rgb(29, 135, 245) !important;
+}
+
+.fc-event-title-container:hover {
+  background-color: #8cbaec;
+  color: white;
+  box-shadow: none;
+}
+
+.fc-col-header-cell {
+  background-color: white !important;
+}
+
+.MuiTablePagination-toolbar {
+  border: none !important;
+}
+
+.sidenavHeader {
+  border-bottom: 1px solid rgba(163, 163, 163, 0.301) !important;
+}
+
+.graphBox {
+  width: 100%;
+  height: 280px;
+  padding: 20px;
+  max-width: 540px;
+  border-radius: 10px;
+  background: linear-gradient(310deg, rgb(20, 23, 39), rgb(58, 65, 111));
+
+  @media screen and (max-width: 520px) {
+    height: 150px;
+    padding: 10px;
+    max-width: 280px;
+  }
+}
+
+/*# sourceMappingURL=custom.css.map */

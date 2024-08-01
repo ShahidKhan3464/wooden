@@ -1,0 +1,18 @@
+{
+  "startDate": "12/25/2020",
+  "endDate": "12/26/2020",
+  "leadID": 5,
+  "cityID": 1,
+  "minBudget": 5500,
+  "maxBudget": 7500,
+  "numberOfGuests": 6,
+  "numberOfCars": 3,
+  "carRental": 0,
+  "boatRental": 1,
+  "districtID": "",
+  "transactionStatusID": 1,
+  "specialRequest": "",
+  "description": "Quick Getaway",
+  "inquiryAmenities": ""
+  /* inquiryID */
+}

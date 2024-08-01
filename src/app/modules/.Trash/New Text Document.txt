@@ -1,0 +1,51 @@
+
+  let StateField;
+  useEffect(() => {
+    if (Country === "1") {
+      StateField = (
+        <FormControl
+          error={Errors.find((fieldHasError) => fieldHasError === "State")}
+          required
+          variant="outlined"
+          color="secondary"
+          className={classes.TextField}
+        >
+          <InputLabel htmlFor="outlined-age-native-simple">State</InputLabel>
+          <Select
+            native
+            label="State"
+            inputProps={{
+              name: "State",
+              id: "outlined-age-native-simple",
+            }}
+            value={State}
+            onChange={(e) => {
+              setState(e.target.value);
+              setStateOrProvince(e.target.value);
+            }}
+          >
+            {StatesList}
+          </Select>
+        </FormControl>
+      );
+    } else {
+      StateField = (
+        <TextField
+          error={Errors.find(
+            (fieldHasError) => fieldHasError === "StateOrProvince"
+          )}
+          required
+          id="outlined-required"
+          label="State or Province"
+          variant="outlined"
+          color="secondary"
+          className={classes.TextField}
+          value={StateOrProvince}
+          onChange={(e) => {
+            setStateOrProvince(e.target.value);
+            setState(e.target.value);
+          }}
+        />
+      );
+    }
+  }, [Country]);

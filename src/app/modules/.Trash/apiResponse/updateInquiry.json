@@ -1,0 +1,18 @@
+{
+  "startDate": "12/10/2020",
+  "endDate": "12/12/2020",
+/* leadID */
+  "cityID": 1,
+  "minBudget": 2200,
+  "maxBudget": 5200,
+  "numberOfGuests": 4,
+  "numberOfCars": 2,
+  "carRental": 1,
+  "boatRental": 0,
+  "districtID": "",
+/* transactionStatusID */
+  "specialRequest": "grill",
+  "description": "Graduation",
+  "inquiryAmenities": "1",
+  "inquiryID": 6
+}

@@ -1,0 +1,27 @@
+{
+  /*   "ownerID": 27, */
+  "firstName": "Paul__myTest",
+  "lastName": "Owner",
+  "brokerID": 1,
+  "phone": "1111111111",
+  "address": "1234 Main",
+  "cityID": 4,
+  "zipCodeID": 4,
+  "email": "newOwner@email.com",
+  "imageFileName": "newestOwner.png",
+  "allowsMultipleBrokers": 1
+/*   "transactionStatusID": 1 */
+}
+
+{
+  "firstName": "Paul__Oscar123",
+  "lastName": "Owner",
+  "brokerID": 2,
+  "phone": "1111111111",
+  "address": "1234 Main",
+  "cityID": 4,
+  "zipCodeID": 4,
+  "email": "newOwner@email.com",
+  "imageFileName": "newestOwner.png",
+  "allowsMultipleBrokers": 1
+}

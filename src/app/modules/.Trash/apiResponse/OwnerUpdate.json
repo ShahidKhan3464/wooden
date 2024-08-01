@@ -1,0 +1,14 @@
+{
+  "ownerID": 27,
+  "firstName": "Paul__testUpdate",
+  "lastName": "Owner",
+  /*   "brokerID": 1, */
+  "phone": "1111111111",
+  "address": "1234 Main",
+  "cityID": 4,
+  "zipCodeID": 4,
+  "email": "oscar@propertyOwner.com",
+  "imageFileName": "newestOwner.jpg",
+  "allowsMultipleBrokers": 1,
+  "transactionStatusID": 1
+}

@@ -1,0 +1,43 @@
+{
+  "Messages": [
+      "View an Inquiry for this InquiryID was executed successfully."
+  ],
+  "Data": [
+      {
+          "brokerID": 1,
+          "cityID": 1,
+          "districtID": null,
+          "inquiryID": 6,
+          "leadID": 3,
+          "startDate": "12/18/2020",
+          "endDate": "12/19/2020",
+          "minBudget": 4000,
+          "maxBudget": 9000,
+          "numberOfGuests": 4,
+          "numberOfCars": 2,
+          "carRental": 1,
+          "boatRental": 0,
+          "specialRequest": "BBQ Grill",
+          "inquiryAmenities": "1",
+          "amenities": null,
+          "city": "Miami",
+          "district": null,
+          "leadFirstName": "Larry",
+          "leadLastName": "Lead",
+          "leadVerificationStatus": "Verified",
+          "employeeImageFilePath": null,
+          "leadImageFilePath": "",
+          "phone": "11111111112",
+          "email": "larryLead@gmail.com",
+          "description": "Wedding",
+          "employeeFirstName": "Yuri",
+          "employeeLastName": "Estevez",
+          "transactionStatusID": 0,
+          "status": null
+      }
+  ],
+  "Area": "Inquiries - GetAnInquiry",
+  "ExceptionMessage": null,
+  "ExceptionType": null,
+  "StackTrace": null
+}

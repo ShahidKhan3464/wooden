@@ -1,0 +1,25 @@
+{
+  "Messages": ["Get All Active Holds was executed successfully."],
+  "Data": [
+    {
+      "propertyHoldID": 46,
+      "totalHoldPrice": 25000,
+      "inquiryID": 24,
+      "propertyID": 50,
+      "dateHeld": "2021-03-12T09:40:50",
+      "checkInDate": "2021-03-30T00:00:00",
+      "checkOutDate": "2021-04-01T00:00:00",
+      "propertyFriendlyName": "Villa Leonard",
+      "leadFirstName": "Larry",
+      "leadLastName": "Lead",
+      "employeeFirstName": "Yuri",
+      "employeeLastName": "Estevez",
+      "holdStatus": "approved",
+      "holdStatusID": 2
+    }
+  ],
+  "Area": "Inquiries - GetHoldsForAdminDashboard",
+  "ExceptionMessage": null,
+  "ExceptionType": null,
+  "StackTrace": null
+}

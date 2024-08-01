@@ -1,0 +1,41 @@
+{
+  "Messages": [
+      "Get Lead data was executed successfully."
+  ],
+  "Data": [
+      {
+          "leadID": 3,
+          "firstName": "Larry",
+          "lastName": "Lead",
+          "dob": "03/01/1970",
+          "email": "larryLead@gmail.com",
+          "phone": "11111111112",
+          "address": "1234 Main",
+          "city": "Tampa",
+          "state": null,
+          "country": "United States",
+          "zipCode": "33139",
+          "leadVerificationStatus": "Verified",
+          "leadSource": "Google Ads",
+          "leadProfession": "Unknown",
+          "employeeFirstName": "Yuri",
+          "employeeLastName": "Estevez",
+          "employeeEmail": "yuri@luxuri.com",
+          "leadVerificationStatusID": 1,
+          "brokerID": 1,
+          "leadSourceID": 2,
+          "assignedEmployeeID": 1,
+          "leadProfessionID": 1,
+          "countryID": 1,
+          "stateID": null,
+          "transactionStatusID": 1,
+          "imageFileName": "",
+          "revenueFromLead": null,
+          "stateOrProvince": "Florida"
+      }
+  ],
+  "Area": "Leads - GetALead",
+  "ExceptionMessage": null,
+  "ExceptionType": null,
+  "StackTrace": null
+}

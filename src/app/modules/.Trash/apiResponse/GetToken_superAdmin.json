@@ -1,0 +1,50 @@
+{
+  "postmanToken": {
+    "access_token": "2ZVg17g5N_Atwryr13etM1Pa8DmdtHeDmlbPLJEcfaZShwcNGMipo20DSTOn3IoV7AZSkck-N2Yg6sboyYT-yFfRqTj7Fpgtp06Wo8yUn17sIsX62w-WaaR6H60e1n_b0JsObvBklz76sBsuXqoFXuQL1YcHIOgXYrcsI0QflSMpfqGnBqcRDMUfN8sspesQuG4MU4Q3VLzealf4u3-0zZ8vtC4n0n6QzlEa5sAyi2W-pT1ZG5Nh_gvksPfaQc9C1oiS71Cag2-C6qWmNBD2BKt-ezOkLfu6M3YaLvIVlpGmSd9H4sgX6gJTbBfQNXM68icSnDLC5-GfEkz4AnpeVAm0oWLMPKi1E_R6pVBKLPKLVcrXCPD7oDOa6-NZfy61H6_w-HF-vuIxXjxesEsdk2VEKE6EV-0_2VXN_pxcLk9iYC05YjclyF992Ucp52ftUhSIvYkjiAcWUOWewCVOPoQhW-gnT4zq2ZxKJPH4AZCf4K8z3kOpsRNkXHeykXV1YzaWiO5n5AvPoZTHFAiW6qPmXhIfwtf3LoK8WgD287OXIdCICakkrYFHMBv4NtH2pL9YvA9Cb-rMbEWiU4_hbukM2PmXK1FNxQR3i333_Ww",
+    "token_type": "bearer",
+    "expires_in": 5183999,
+    "employeeID": "2",
+    "employeeFirstName": "Shawn",
+    "employeeLastName": "Nelson",
+    "brokerID": "2",
+    "roles": "superAdmin",
+    ".issued": "Wed, 07 Apr 2021 16:17:11 GMT",
+    ".expires": "Sun, 06 Jun 2021 16:17:11 GMT"
+  },
+
+  "postmanToken-Or": {
+    "access_token": "0T2DlyQGoq2SFPunK6PEMirreuJKHFZz1_P-rVwW0rMdqvzuU7ACwv4hN_FgEUeMaTxrE9oJbsa7ekIG5dZ0qgyRpbtw4t8ledwAt3VzR07btnw087Np-EfroQJA-PkCfneGiwkwJMW95-jcTUILYu8MY0V9-PmUV6trYVBEdnuU68rSrIr4i15PZNVBdzG8yF7rWUnaSOfyxiGFUQfRNWupmpy4EQxMCndECYLee5SoEDahUnNAOT8GD_O5mP3e-MyuQ0a6dSP1PbgzIzV6rMCUcmPVH4ywfwDo7a3fX-1RV5Lx_VLGHrlXbCFwXkEWdt6DXPHhgV-qYSnqsLXxPGvQzuyH4HuZ-3B8HG-teYIJ2lKSQp1xEUck2qLtnyqiFURY0NUSvQSkCKL84tmXjf7uxA55yyEJ-1YGWSwAWSnINqgBqxo5Gy-Q_GU1POLIZvx9Kxn1s_yjTL7c8hlfH2Ix57UEOhzInrSKSjYuUt4rYg-cYytNCxiBgQBT7gDDZsJh9uBSBAdS4WFZya-03PlEAvpIyr1uxqskIg1G8bvhoXbYV-1eCMXsev39dyapGVQqLFy05JMuYHLurKhn_QYNfQLE61WqAOzJJ9TddkqPHv6vEIzQtkMhT6KUejMEU6nGfFqAO5t0TIakiBoNfw",
+    "token_type": "bearer",
+    "expires_in": 5183999,
+    "employeeID": "6",
+    "employeeFirstName": "Or",
+    "employeeLastName": "Dori",
+    "brokerID": "1",
+    "roles": "brokerAdmin,brokerAdmin,propertiesAdmin,propertiesAdmin,leadsAdmin,leadsAdmin,employeesAdmin,employeesAdmin",
+    ".issued": "Wed, 07 Apr 2021 16:35:24 GMT",
+    ".expires": "Sun, 06 Jun 2021 16:35:24 GMT"
+  },
+
+  "ourToken": {
+    "authToken": "gNtjqHTt-VoKZxXG9whzifOGoY36KEm8ADXGdeOkmIVBRcbCFr07LMJrBSPZ-I7y4UOyD-zOpNSl7hJDLJtbgpOJz3Kgxyd-3rWbM8nyCldNYNxN-PJhLHWREJ1Ra_RHsqt6v1nmcsvRj6Md250Gp0w6vicyWwh3djaYj6mMPI99WH0WgjaQEoqcZx7xo_z5V0NxOZkWA_Hw8oRPZCKu-LUj2O8q1wz6xSWuvfVKqMyOAG7YsIDJqSJB082DvmrDRFg7Lhfi60PGFcYWMPaYj_DKH8NJ1XqaQ3HFss_AcBVDx7v7kYQrZxY-oNImiPFNWR4xxx51x0gFBMFBBIUR3ONk2No2GY6a-U8rFJBf3YYhiUYal4QBwnpTBHeEX3iCHvO7xucdNAbTzzuvGainNKHmHcybkKEm99_Gwe7nBh2iWuPDo6gCrvP5sV4XyNloPOe4De2zh1ah8Ctj19qKNWLUtPYbpbQlNjToeB_nPOK4PzjX5R3m9V4iHYiuDjr8kcxNb2OgvAPNoIpGPFSy5TpfC-S5e-0LH1HLFBZWI4YitV8q9hnd2VMmzcdi359aHEDcR7S_l_fbusjP5zglQ1Wnrp90jJLUr8KYgEgcG_VeeUl6KCA4M3sVt5PhlueAjupQeqTj6YjxkZE2RVlcmQ",
+    "user": {
+      "token_type": "brokerAdmin,brokerAdmin,propertiesAdmin,propertiesAdmin,leadsAdmin,leadsAdmin,employeesAdmin,employeesAdmin" /*which is wrong*/,
+      "expires_in": "5183999",
+
+      "lastname": "6" /*which is wrong, I think it is the employeeID*/,
+
+      "firstname": "Or",
+      "employeeLastName": "Dori",
+      "brokerID": "1",
+      "roles": "brokerAdmin,brokerAdmin,propertiesAdmin,propertiesAdmin,leadsAdmin,leadsAdmin,employeesAdmin,employeesAdmin"
+      /*
+        ".issued": "Wed, 07 Apr 2021 16:17:11 GMT",
+        ".expires": "Sun, 06 Jun 2021 16:17:11 GMT"
+      */
+    },
+    "_persist": {
+      "version": -1,
+      "rehydrated": true
+    }
+  }
+}

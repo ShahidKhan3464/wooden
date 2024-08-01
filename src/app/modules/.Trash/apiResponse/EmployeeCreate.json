@@ -1,0 +1,16 @@
+{
+  /*   "employeeID": 33, */
+  "employeeFirstName": "Paul__testName",
+  "employeeLastName": "Agent",
+  "employeeTitleID": 200,
+  "brokerID":1,
+  "phone": "1111111111",
+  "address": "1234 Main",
+  "cityId": 1,
+  "zipCodeID": 1,
+  "email": "agent@demobroker.com",
+  "dob": "1/1/1970",
+  "transactionStatusID": 1,
+  "imageFileName": "",
+  "roles": "8"
+}

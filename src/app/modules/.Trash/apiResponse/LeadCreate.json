@@ -1,0 +1,22 @@
+{
+  /* leadID */
+  "firstName": "Paul__Lead-test",
+  "lastName": "Leader",
+  "leadVerificationStatusID": 1,
+  "brokerID": 1,
+  "phone": "1111111111",
+  "address": "1234 Main",
+  "zipCodeID": null,
+  "cityID": null,
+  "email": "newLead5@email.com",
+  "dob": "1/1/1970",
+  "transactionStatusID": 1,
+  "assignedEmployeeID": 2,
+  "leadSourceID": 2,
+  "leadProfessionID": 1,
+  "imageFileName": "",
+  "city": "Grandview",
+  "stateID": 2,
+  "countryID": 1,
+  "zipCode": "64030"
+}

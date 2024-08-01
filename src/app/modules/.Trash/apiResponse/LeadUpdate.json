@@ -1,0 +1,24 @@
+{
+  "leadID": 56,
+  "firstName": "Paul__test002",
+  "lastName": "Lead",
+  "leadVerificationStatusID": 1,
+  "brokerID": 2,
+  "phone": "1111111111",
+  "address": "1234 Main",
+  "zipCodeID": 4,
+  "cityID": 4,
+  "email": "lenny@email.com",
+  "dob": "1/1/1970",
+  "transactionStatusID": 1,
+  "assignedEmployeeID": 2,
+  "leadSourceID": 2,
+  "leadProfessionID": 1,
+  "imageFileName": "lenny.jpg"
+  /* 
+  "city": "Grandview",
+  "stateID": 2,
+  "countryID": 1,
+  "zipCode": "64030"
+  */
+}

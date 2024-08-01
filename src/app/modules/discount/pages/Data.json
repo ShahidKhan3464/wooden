@@ -1,0 +1,45 @@
+{
+    "tableData": [
+        {
+            "image": "img/slide1.jpg",
+            "name": "Villa Elysian",
+            "weeklyDiscount": "1%",
+            "monthlyDiscount": "2%",
+            "yearlyDiscount": "10%"
+        },
+        {
+            "image": "img/slide1.jpg",
+            "name": "Villa Elysian",
+            "weeklyDiscount": "",
+            "monthlyDiscount": "",
+            "yearlyDiscount": ""
+        },
+        {
+            "image": "img/slide1.jpg",
+            "name": "Villa Elysian",
+            "weeklyDiscount": "",
+            "monthlyDiscount": "",
+            "yearlyDiscount": ""
+        },
+        {
+            "image": "img/slide1.jpg",
+            "name": "Villa Elysian",
+            "weeklyDiscount": "",
+            "monthlyDiscount": "",
+            "yearlyDiscount": ""
+        },
+  {
+          "imageFilePath": "https://res.cloudinary.com/ddlx05ofh/image/upload/v1613515781/woodendoor/1968953394Villa%20Rhodes.jpg.jpg",
+          "percentDiscount": null,
+          "propertyDiscountDateRangeID": 7,
+          "propertyDiscountID": null,
+          "propertyDiscountTypeID": null,
+          "propertyFriendlyName": "shawn%20test112",
+          "propertyID": 253,
+          "tableData": { "id": 311 },
+          "transactionStatusDate": "0001-01-01T00:00:00",
+          "transactionStatusEmployeeID": 0,
+          "transactionStatusID": 0
+  }
+    ]
+}

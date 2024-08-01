@@ -1,0 +1,36 @@
+{
+    "tableData": [
+        {
+            "propertyName": "Eleanor Pena",
+            "city": "Floyd Miles",
+            "from": "03/04/16",
+            "to": "08/05/17",
+            "price": "$3933",
+            "status": "Active"
+        },
+        {
+            "propertyName": "Eleanor Pena",
+            "city": "Floyd Miles",
+            "from": "03/04/16",
+            "to": "08/05/17",
+            "price": "$3933",
+            "status": "Active"
+        },
+        {
+            "propertyName": "Eleanor Pena",
+            "city": "Floyd Miles",
+            "from": "03/04/16",
+            "to": "08/05/17",
+            "price": "$3933",
+            "status": "Hold"
+        },
+        {
+            "propertyName": "Eleanor Pena",
+            "city": "Floyd Miles",
+            "from": "03/04/16",
+            "to": "08/05/17",
+            "price": "$3933",
+            "status": "Hold"
+        }
+    ]
+}

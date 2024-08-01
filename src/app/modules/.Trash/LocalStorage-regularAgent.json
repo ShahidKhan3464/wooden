@@ -1,0 +1,9 @@
+{authToken:
+   "\"F9V84-Yboqp-6SWYuCgBuqhH7Jfq5c8sAZlKr2wVjJYnXqin8QYO8coTr6jAqvI46QC3PoslQBPV--ZSMEkPwS6U5JjW059vcmoOGsKtud_OiwBejCQxg7004G2kAe9b00pCHWTLaW-VWwW9U3b7bAqe0g5zWbUtQoKNi08Uh-_njRsC1zsBVLxinZD_JKnxMIMTP6Gtg7WMXMOpOcme7RYIDqwB67S45QiWjHlTbKiCOX4Zxwl700GG7lKjTE1ItbtowPhdW3GqsacaCuSQGEzVTZPz6ibNPwQ0fpLeuPc40KYbDAjgGPn5CKHRFzWZVKyCUo1Je2PkcSsZf2u7lMCH2T_8UhqhvATzebMX4a8mNnA6hyRnZh1ejRqmGYLEn2BbLd0Oy9bfIfDBALa0wgRK42wUuMABFWkxR5dzcLjZQlsFEN9P59b6zB-LRPylvf6NZ-WcAzR6JdpZM69uKqhvuUVFmsXf_0WSzc_TE1ADeaLymrGhwsP5Ijmfq44HWT61BV9VfJBKK8pHkcnmNDZmlMUjyedPPKdm21W8vWgLODn8Q6_I2CGS6sURwZUImVVIR5cmDR4jLJwwMEEJK6iz3rhtg9dvzhyxn9rd2OU\""
+user: "{
+  \"token_type\":\"bearer\",\"expires_in\":5183999,\"employeeID\":\"23\",
+  \"employeeFirstName\":\"Larry\",\"employeeLastName\":\"Shinbaum\",
+  \"brokerID\":\"1\",\"roles\":\"regularAgent\",
+  \".issued\":\"Tue, 20 Apr 2021 21:10:49 GMT\",
+  \".expires\":\"Sat, 19 Jun 2021 21:10:49 GMT\"}"
+_persist: "{\"version\":-1,\"rehydrated\":true}"}

@@ -1,0 +1,94 @@
+{
+  "Messages": [
+      "View a Property for this Broker was executed."
+  ],
+  "Data": {
+      "propertyID": 6,
+      "ownerID": 2,
+      "brokerID": 1,
+      "cityID": 1,
+      "zipCodeID": 1,
+      "propertyFriendlyName": "Miami Paradise",
+      "description": "Close to everything!",
+      "address": "1234 Main",
+      "numberOfBedrooms": 6,
+      "numberOfBeds": 8,
+      "numberOfBathrooms": 4.5,
+      "allowPets": 1,
+      "propertySearchTypeID": 1,
+      "assignedEmployeeID": 23,
+      "mondayMinimumPrice": 100,
+      "tuesdayMinimumPrice": 200,
+      "wednesdayMinimumPrice": 300,
+      "thursdayMinimumPrice": 500,
+      "fridayMinimumPrice": 800,
+      "saturdayMinimumPrice": 800,
+      "sundayMinimumPrice": 200,
+      "transactionStatusID": 1,
+      "districtID": null,
+      "phone": "1111111111",
+      "mondaySuggestedPrice": 1100,
+      "tuesdaySuggestedPrice": 1200,
+      "wednesdaySuggestedPrice": 1300,
+      "thursdaySuggestedPrice": 1400,
+      "fridaySuggestedPrice": 1500,
+      "saturdaySuggestedPrice": 1600,
+      "sundaySuggestedPrice": 1700,
+      "monthlyMinimumPrice": 4000,
+      "monthlySuggestedPrice": 5000,
+      "maxAllowedGuests": 6,
+      "imageFileName": "/properties/defaultPropertyImage.png",
+      "secondaryImages": null,
+      "propertyAmenities": "2,3,12",
+      "secondaryImagesList": [
+          {
+              "imageID": 358,
+              "imageFilePath": "bigbath.jpg"
+          },
+          {
+              "imageID": 359,
+              "imageFilePath": "bigkitchen.jpg"
+          }
+      ],
+      "propertyAmenitiesList": [
+          {
+              "amenityID": 2,
+              "amenity": "Beach Front",
+              "displayOrder": 30
+          },
+          {
+              "amenityID": 3,
+              "amenity": "Bathtub",
+              "displayOrder": 250
+          },
+          {
+              "amenityID": 12,
+              "amenity": "Lake Front",
+              "displayOrder": 40
+          }
+      ],
+      "propertyCalendarsList": null,
+      "areThereSecondaryImageUpdates": false,
+      "seoDescription": null,
+      "locationID": 3,
+      "bitlyLink": "http://bit.ly/ives_",
+      "city": "Miami",
+      "location": "Miami",
+      "zipCode": "32478",
+      "stateID": 1,
+      "countryID": 1,
+      "state": "Florida",
+      "country": "United States",
+      "employeeID": 23,
+      "employeeFirstName": "Larry",
+      "employeeLastName": "Shinbaum",
+      "employeePhone": "3059757880",
+      "employeeEmail": "larry@luxuri.com",
+      "ownerFirstName": "John",
+      "ownerLastName": "OwnerSmith"
+  },
+  "Area": "Properties - ViewAProperty",
+  "ExceptionMessage": null,
+  "ExceptionType": null,
+  "StackTrace": null
+}

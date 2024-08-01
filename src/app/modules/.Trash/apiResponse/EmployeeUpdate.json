@@ -1,0 +1,16 @@
+{
+  "employeeID": 33,
+  "employeeFirstName": "Paul__updateTest2",
+  "employeeLastName": "Paul__updateTest2",
+  "employeeTitleID": 500,
+  "brokerID": 1,
+  "phone": "3054971724",
+  "address": "1234 Main",
+  "cityID": 1,
+  "zipCodeID": 1,
+  "email": "paul@paul.com",
+  "dob": "1/1/1970",
+  "transactionStatusID": 1,
+  "imageFileName": "unique.jpg",
+  "roles": "1,2,5,6"
+}

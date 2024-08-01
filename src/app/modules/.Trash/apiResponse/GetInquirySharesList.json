@@ -1,0 +1,17 @@
+{
+  "Messages": ["Get Inquiry Shares List was executed successfully."],
+  "Data": [
+    {
+      "shareID": 56,
+      "transactionStatusDate": "2021-03-30T09:53:43"
+    },
+    {
+      "shareID": 57,
+      "transactionStatusDate": "2021-03-30T09:53:56"
+    }
+  ],
+  "Area": "Inquiries - GetInquirySharesList",
+  "ExceptionMessage": null,
+  "ExceptionType": null,
+  "StackTrace": null
+}

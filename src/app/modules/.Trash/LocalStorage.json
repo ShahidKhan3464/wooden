@@ -1,0 +1,16 @@
+{
+  "authToken": "KIJgdlpXfc4u9diyGhBNhsfFUXgpocJH_NM9Hq4RztEI1HKUYKPZxOm1igmp9QjKC1I7YiC4iy6J-bsLktAEJzq1wsroDS3iHMGjiPLvzXkZHLhJlGOn4SwaLbJoocKZ16Pavjwbxj6O21vQjU8JbncaaKVu0XZM3akNfPusaqMh3qSvi0ArQ75lPG0VmD_TSryTjyqAD3QXY9UkXQAI5b_9KLLcu9EpUgnC8CjRuGY2ANHVS48F-9zmeQtpqOKFm0j8KAkIkLHVjj1TWMsMLT10-tklfFUhb_FTpZpEW4NlkfLkGaAhcaJTUuQCNn8eKTvWxvApGAjFXHd2tpR4TRtou2pRD8cye77FLQZoY6xQ9J6Kh9AA8FCqyjBJ1CF7-jS5k6R908ddpMq-2XgXR0Js61c4oNSaOvsUe1jIbGqCAJTqJll8qlJf_tPY337tFrJaW3ZlghL7gTMV1CQrZvtKfz9GrLKL0-YsZeZFAteDUFqwc7v88MXRNtzQwZzLmHx12-ichzFdl3trw_w7ptTJ013u3fTnDS8yjldi3Lsuk3asBR5pywSrRHZXemAGaH5L8tVhx1oahmW45ElBv8wx9pbgoXfWxX4HGtSkK1o3nstkc3Wvy992JsNZs5b-",
+  "user": {
+    "firstname":"Or",
+    "lastname":"6",
+    "brokerID":"1",
+    "employeeLastName":"Dori",
+    "expires_in":5183999,
+    "roles":"brokerAdmin,propertiesAdmin,leadsAdmin,employeesAdmin",
+    "token_type":"brokerAdmin,propertiesAdmin,leadsAdmin,employeesAdmin"
+  },
+  "_persist": {
+    "version":-1,
+    "rehydrated":true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Messages": [
+      "Get Employee data was executed successfully."
+  ],
+  "Data": [
+      {
+          "employeeID": 25,
+          "employeeFirstName": "Elizabeth",
+          "employeeLastName": "Bender",
+          "employeeTitleID": 2,
+          "brokerID": 1,
+          "phone": "3058428462",
+          "address": "",
+          "cityID": null,
+          "zipCodeID": null,
+          "city": "1",
+          "zipCode": "1",
+          "stateID": null,
+          "countryID": 1,
+          "stateOrProvince": "",
+          "transactionStatusID": 1,
+          "email": "bender@luxuri.com",
+          "dob": "1970-01-01T00:00:00",
+          "imageFileName": "https://res.cloudinary.com/ddlx05ofh/image/upload/v1616170743/woodendoor/1620701561Elizabeth%20Bender.png.png",
+          "roles": "8",
+          "brokerEmployeeIDOfDeleteEmployee": 0
+      }
+  ],
+  "Area": "Brokers - GetAnEmployee",
+  "ExceptionMessage": null,
+  "ExceptionType": null,
+  "StackTrace": null
+}

@@ -1,0 +1,58 @@
+{
+  "Messages": ["Get Inquiry Shares List was executed successfully."],
+  "Data": [
+    {
+      "shareID": 56,
+      "transactionStatusDate": "2021-03-30T09:53:43",
+      "inquiryShareViews": [
+        {
+          "inquiryID": 6,
+          "propertyID": 96,
+          "status": "HELD",
+          "dateRange": "4/1/2021 - 4/4/2021",
+          "price": 6500,
+          "propertyFriendlyName": "Villa Elia",
+          "numberOfBedrooms": 4,
+          "numberOfBathrooms": 4.0,
+          "maxAllowedGuests": 8,
+          "imageFilePath": "https://res.cloudinary.com/ddlx05ofh/image/upload/v1614007444/woodendoor/360538486Villa%20Elia.jpg.jpg",
+          "bitlyLink": "http://bit.ly/villa_elia"
+        },
+        {
+          "inquiryID": 6,
+          "propertyID": 96,
+          "status": "Available",
+          "dateRange": "4/2/2021 - 4/5/2021",
+          "price": 5500,
+          "propertyFriendlyName": "Villa Elia",
+          "numberOfBedrooms": 4,
+          "numberOfBathrooms": 4.0,
+          "maxAllowedGuests": 8,
+          "imageFilePath": "https://res.cloudinary.com/ddlx05ofh/image/upload/v1614007444/woodendoor/360538486Villa%20Elia.jpg.jpg",
+          "bitlyLink": "http://bit.ly/villa_elia"
+        },
+        {
+          "inquiryID": 6,
+          "propertyID": 6,
+          "status": "Available",
+          "dateRange": "4/2/2021 - 4/5/2021",
+          "price": 4500,
+          "propertyFriendlyName": "Miami Paradise",
+          "numberOfBedrooms": 6,
+          "numberOfBathrooms": 4.5,
+          "maxAllowedGuests": 6,
+          "imageFilePath": "/properties/defaultPropertyImage.png",
+          "bitlyLink": "http://bit.ly/ives_"
+        }
+      ]
+    },
+    {
+      "shareID": 57,
+      "transactionStatusDate": "2021-03-30T09:53:56"
+    }
+  ],
+  "Area": "Inquiries - GetInquirySharesList",
+  "ExceptionMessage": null,
+  "ExceptionType": null,
+  "StackTrace": null
+}
